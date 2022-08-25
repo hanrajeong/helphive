@@ -1,4 +1,9 @@
-# CMPT354: Milestone 4
+# Helphive
+
+This is community application for sharing the values among SFU students.
+They can ask for particular help, not only in education or language, but also about their general life, like asking for help when they move out.
+
+Me and my teammates did this for the group project in CMPT354 in CS, SFU with the professor, Hazra Imran.
 
 Get Started
 - After downloading the zip file, extract it first
